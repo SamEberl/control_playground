@@ -2,6 +2,8 @@
 
 An interactive cart-pole simulation with real-time visualization and a customizable controller.
 
+<img width="2380" height="1182" alt="image" src="https://github.com/user-attachments/assets/08eeef6c-eaa0-4aec-8316-367d67204840" />
+
 ## Overview
 
 This project provides a physics simulation of the classic cart-pole (inverted pendulum) control problem. The cart moves along a 1D track while balancing a pole attached via a pivot. The goal is to design a controller that keeps the pole balanced while moving the cart to a target position.
